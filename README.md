@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Matt!
+
+- 📰 Check out my blog here: https://igotablog.com/
+- 👨‍💻 Here's my Newsletter: https://mattgardner.substack.com/
+- 🎙 Podcast, "The Noob Show": https://noob.show
 
 <!--
 **iwaffles/iwaffles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
