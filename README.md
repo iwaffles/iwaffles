@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Matt!
 
-- 📰 Check out my blog here: https://igotablog.com/
+- 📰 Check out my blog here: https://blog.mattgardner.com/
 - 👨‍💻 Here's my Newsletter: https://mattgardner.substack.com/
 - 🎙 Podcast, "The Noob Show": https://noob.show
 
